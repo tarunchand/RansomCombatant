@@ -1,0 +1,1 @@
+{"10896:WerFault.exe": [{"family": "2", "type": "1", "laddr": "addr(ip='10.0.2.15', port=50298)", "raddr": "addr(ip='20.189.173.20', port=443)", "status": "ESTABLISHED"}, {"family": "2", "type": "1", "laddr": "addr(ip='10.0.2.15', port=50298)", "raddr": "addr(ip='20.189.173.20', port=443)", "status": "ESTABLISHED"}]}
